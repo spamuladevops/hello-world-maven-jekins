@@ -36,7 +36,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou Mr. Pamula, please keep learning.....was happy working with you all ++++++++++++++++++++++++++++++++++++++++++++++</h1>
+   <h1> Thankyou Mr. Sathyendra Kumar Pamula, please keep learning.....was happy working with you all ++++++++++++++++++++++++++++++++++++++++++++++</h1>
 
   
 </form>
